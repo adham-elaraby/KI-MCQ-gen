@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from mcq_extractor import generate_and_evaluate_mcqs
+from mcq_ai_generator import generate_and_evaluate_mcqs
 from io import BytesIO
 
 st.title("KI-basierter MCQ-Generator")
