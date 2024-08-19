@@ -2,6 +2,12 @@
 
 Diese Streamlit-Webapp ermöglicht es Nutzern, eine PDF-Datei hochzuladen, Multiple-Choice-Fragen (MCQs) und Klausurfragen aus dem Inhalt zu extrahieren und die extrahierten Fragen in einer CSV-Datei zu speichern.
 
+
+
+https://github.com/user-attachments/assets/b4fdd45f-9cfa-4d07-bb96-8213788a5175
+
+
+
 ## Funktionen
 - PDF-Dateien hochladen
 - Text aus PDFs extrahieren
@@ -45,3 +51,5 @@ Diese Streamlit-Webapp ermöglicht es Nutzern, eine PDF-Datei hochzuladen, Multi
 - Andere Sprachmodelle
 - FSL?
 
+## Quellen und Hilfreiche Rescourcen
+[nirmals-workspace/Langchain-MCQ-Generation-using-ConversationChain](https://github.com/nirmals-workspace/Langchain-MCQ-Generation-using-ConversationChain)
