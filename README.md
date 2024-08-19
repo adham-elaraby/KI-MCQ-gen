@@ -22,13 +22,23 @@ https://github.com/user-attachments/assets/b4fdd45f-9cfa-4d07-bb96-8213788a5175
 - Python-dotenv
 
 ## Installation
-
-1. Repository klonen:
+1. Clone Repository:
    ```bash
    git clone https://github.com/adham-elaraby/KI-MCQ-Gen.git
-   ..
+   cd KI-MCQ-gen
+   ```
+2. Virtuelle Umgebung erstellen und Aktivieren (Shell-abhängig)
+   ```bash
    python -m venv python_env
-   ..
+
+   # Bash
+   source python_env/bin/activate
+
+   # PowerShell
+   .\python_env\Scripts\Activate.ps1
+   ```
+3. Abhängigkeiten installieren
+   ```bash
    pip install -r requirements.txt
    ```
 
