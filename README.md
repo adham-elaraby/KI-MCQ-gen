@@ -56,10 +56,15 @@ https://github.com/user-attachments/assets/b4fdd45f-9cfa-4d07-bb96-8213788a5175
 4. Geben Sie die Anzahl der MCQs, das Fach, Ton, Sprache und Referenzfragen an.
 5. Klicken Sie auf "Fragen generieren", um MCQs und Klausurfragen zu extrahieren und die CSV-Datei herunterzuladen.
 
-## Mögliche Verbesserungen
+## Mögliche Verbesserungen (TODOs)
 - Fine-Tuning?
 - Andere Sprachmodelle
 - FSL?
+- Vektorisierung (Vector Embeddings) + Upstash
+- Tokenisierung mit tiktoken
+- Langchain w/ FastAPI + Langserve
+- Rate limiting mit Upstash Redis
+- API-Key basiertes rate limiting
 
 ## Quellen und Hilfreiche Rescourcen
 [nirmals-workspace/Langchain-MCQ-Generation-using-ConversationChain](https://github.com/nirmals-workspace/Langchain-MCQ-Generation-using-ConversationChain)
